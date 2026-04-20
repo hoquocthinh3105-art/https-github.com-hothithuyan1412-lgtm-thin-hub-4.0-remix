@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix:  THIN_HUB 4.0 moi ne",
+  "description": "Hệ sinh thái quản lý và hỗ trợ học tập thông minh cho học sinh THPT.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
